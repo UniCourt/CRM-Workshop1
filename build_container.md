@@ -12,7 +12,7 @@ in order to build the application, we need to use a Dockerfile. A Dockerfile is 
 
 1. Get the app from git
 ```    
-https://gitlab.unicourt.com/akshay-uc/workshop/-/tree/app (download zip) ==> (we nned to keep this in seperate repo)
+https://github.com/UniCourt/CRM-Workshop1 ==> clone this repo or download zip
 ```
 unzip the file and cd into the app folder.
 
