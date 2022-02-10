@@ -17,21 +17,17 @@ One Day workshop on understanding Docker and Git
 - You will be Introduced to GIT
 - You will learn git commands (push, pull make Pull request etc)
 ## Schedule
-| Time          | Topics
-|---------------|-------
-|---------------|  [`Prerequisite`](prerequisite.md)
-| 09:00 - 9:30  |  [`Introduction`]
-| 09:30 - 10:00 |  [`What is docker`](docker_intro.md)
-| 10:00 - 10:30 |  [`Docker Commands`](docker_commands.md)
-| 10:30 - 11:30 |  [`Building Custom Containers`](build_container.md)
-| 11:30 - 11:45 |  [`Q & A`]
-| 11:45 - 12:30 |  [`Run Multiple Services with Docker Compose`](docker_compose.md)
-| 12:30 - 1:00  |  [`Q & A`]
-| 1:00 -  2:00  |  [`Break`]
-| 2:00 -  3:00  |  [`Expose Ports, Volume Mounts, Utilizing Networks, Limiting Resources`](docker_ports_volumn_mount.md)
-| 3:00 -  3:30  |  [`Q & A`]
-| 3:30 -  4:00  |  [`Introduction to GIT`](github_intro.md)
-| 4:00 -  5:00  |  [`Git Commands (push, pull make Pull request`](github_commands.md)
-| 5:00 -  5:15  |  [`Q & A`]
-| 5:15 -  5:30  |  [`Wrapping Up`]
+| Time            | Topics
+|-----------------|-------
+| --------------- |  [`Prerequisite`](prerequisite.md)
+| 09:00 - 09:30   |  [`Introduction`]
+| 09:30 - 10:00   |  [`Introduction to GIT`](github_intro.md)
+| 10:00 - 11:00   |  [`Git Commands (push, pull, make Pull request etc)`](github_commands.md)
+| 11:00 - 11:30   |  [`What is docker`](docker_intro.md)
+| 11:30 - 12:00   |  [`Docker Commands`](docker_commands.md)
+| 12:00 - 01:30   |  [`Break`]
+| 01:30 - 4:00    |  [`Building Custom Containers`](build_container.md)
+|                 | [`Run Multiple Services with Docker Compose`](docker_compose.md)
+| 4:00 -  5:00    |  [`Expose Ports, Volume Mounts, Utilizing Networks, Limiting Resources`](docker_ports_volumn_mount.md)
+| 5:15 -  5:30    |  [`Wrapping Up`]
 

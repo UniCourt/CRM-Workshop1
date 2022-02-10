@@ -2,14 +2,7 @@
 ## Create a gitHub account
 https://github.com/
 
-## Install git:
-Commands to install the latest Git from the officially maintained package archives:
 
-    sudo apt-add-repository ppa:git-core/ppa
-
-    sudo apt-get update
-
-    sudo apt-get install git
 
 Run following command to verify if Git works on your computer:
 
