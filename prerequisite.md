@@ -22,7 +22,8 @@ creating a github account
 <br> Step 3: open https://github.com/UniCourt/CRM-Workshop1 in your browser and Fork (option between watch and star) 
 
 ## Docker install 
-    1. docker install steps yet to be discusseddddd
+    1. Go to  CRM-Workshop1 (which is cloned in above step)
+    2. sh prerequisites_install_docker.sh (This will install docker)
 
 
 ## Docker image 
