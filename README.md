@@ -2,6 +2,10 @@
 
 One Day workshop on understanding Docker and Git
 
+## Prerequisite
+
+- Prerequsite has to be completed before coming to workshop
+
 ## Docker
 
 - By the end of this workshop you will understand following things
