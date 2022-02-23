@@ -2,10 +2,6 @@
 
 One Day workshop on understanding Docker and Git
 
-## Prerequisite
-
-- Machine/VM with linux, python3 (3.xx) and pip3 installed 
-
 ## Docker
 
 - By the end of this workshop you will understand following things
