@@ -20,7 +20,7 @@ creating a github account
 <br>Step 1: open  https://github.com/ and sign up
 <br>Step 2: Login with your email
 <br> Step 3: open https://github.com/UniCourt/CRM-Workshop1 in your browser and Fork (option between watch and star)
-<br> Step 4: git clone https://github.com/<your-username>/CRM-Workshop1 (Once you fork you will be able to get this)
+<br> Step 4: git clone https://github.com/<your-username>/CRM-Workshop1 (Once you fork you will be able to clone your repo)
 
 ## Docker install 
     1. Go to  CRM-Workshop1 (which is cloned in above step)
