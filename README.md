@@ -45,6 +45,7 @@ One Day workshop on understanding Docker and Git
    docker-compose version 1.25.0, build 0a186604
 
    Command: $ sudo docker images
+   ```
 ## What will you learn by the end of this workshop?
 
 - You will be Introduced to the concept of containerisation and why its required.
