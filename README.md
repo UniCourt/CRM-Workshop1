@@ -20,7 +20,8 @@ One Day workshop on understanding Docker and Git
 ### Docker
 - To install docker go to your cloned repository [CRM-Workshop1] and run the following command
 
-    ``` sudo prerequisites_install_docker.sh ```
+    ``` sudo spt install docker```
+    ``` sudo snap install docker```
 
 ### Docker Images
 - Run the following commands to get few docker images required for the workshop
