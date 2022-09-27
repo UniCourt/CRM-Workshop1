@@ -75,7 +75,7 @@ Run the following command to add upstream repository.
 
 For example,
 
-    git remote add upstream "ggit@github.com:UniCourt/CRM-Workshop1.git"
+    git remote add upstream "git@github.com:UniCourt/CRM-Workshop1.git"
 
 
 ## Create a branch
