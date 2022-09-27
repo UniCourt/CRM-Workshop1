@@ -36,7 +36,7 @@ Forking refers to making a copy of a project you want to contribute to. Now lets
 
 Follow these steps to fork a project:
 
-1. Go to the project url using this link:https://github.com/priyamvadau-uc/workshop
+1. Go to the project url using this link:https://github.com/UniCourt/CRM-Workshop1
 2. Click on the fork button in the project page
 3. Select a namespace to fork our project. Select your namespace here.
 
@@ -75,7 +75,7 @@ Run the following command to add upstream repository.
 
 For example,
 
-    git remote add upstream "git@github.com:priyamvadau-uc/workshop.git"
+    git remote add upstream "ggit@github.com:UniCourt/CRM-Workshop1.git"
 
 
 ## Create a branch
