@@ -30,7 +30,8 @@
             <tr><td><input type='reset'></td><td><input type='submit' value='Submit' name='submit-btn'></td></tr>
         </form>";
         echo "</table>";
-    echo "<div class='results'>";
+	echo "<div class='results'>";
+	echo "hello";
     $sql = "SELECT * FROM user_info";
     $result = $conn->run_queries($sql);
     if ($result->num_rows > 0) {
