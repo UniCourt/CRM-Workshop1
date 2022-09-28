@@ -24,6 +24,7 @@
     echo "<h2>Enter your information:</h2>";
     echo "<table>";
     echo "<form action='?action=display' method='POST'>
+<tr><td><label>Email Address:</label></td><td><input type='email' name='email'></td></tr>
             <tr><td><label>First Name:</label></td><td><input type='text' name='fname'></td></tr>
             <tr><td><label>Last Name:</label></td><td><input type='text' name='lname'></td></tr>
             <tr><td><label>Phone:</label></td><td><input type='tel' name='phone'></td></tr>
